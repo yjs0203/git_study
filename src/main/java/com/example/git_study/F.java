@@ -5,6 +5,9 @@ public class F {
         System.out.println("아 좀");
         System.out.println("되라고!");
         System.out.println("아오");
+        System.out.println("?");
+        System.out.println("됨?");
+
 
     }
 }
