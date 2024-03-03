@@ -1,10 +1,9 @@
 package com.example.git_study;
 
 public class A {
-    public void test2(){
+    public void test10(){
 
     }
-
 
 }
 
